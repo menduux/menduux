@@ -16,7 +16,6 @@ Estudiante en <b><a href="https://www.tecazuay.edu.ec/main/index.php">Tecnológi
   
    [<img height="40px" src="https://user-images.githubusercontent.com/136200861/244907311-e844ee8e-c800-4752-ba44-d4496653bd28.PNG"/>](https://github.com/menduux)
    [<img height="40px" src="https://user-images.githubusercontent.com/136200861/244907304-ea62ac1e-fecf-47b6-adf6-da7eb4cebb49.PNG"/>](https://github.com/menduux)
-   [<img height="40px" src="https://user-images.githubusercontent.com/136200861/244907310-766302a8-490b-4a91-b313-4c2409203ebf.PNG"/>](https://github.com/menduux)
    [<img height="40px" src="https://user-images.githubusercontent.com/136200861/244907309-f338efcf-585c-454a-bca4-83055a529af7.PNG"/>](https://github.com/menduux)
    [<img height="40px" src="https://user-images.githubusercontent.com/136200861/244907307-70af8c44-e30e-4634-82cf-145daa2a95a3.PNG"/>](https://github.com/menduux)
   
