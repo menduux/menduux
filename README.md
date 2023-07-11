@@ -33,5 +33,5 @@ Estudiante en <b><a href="https://www.tecazuay.edu.ec/main/index.php">Tecnológi
 
 <br/>
 <div align="center">
-  Mr. White Hat - Jun 2023
+  menduux - jul 2023
 </div>
