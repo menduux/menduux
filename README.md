@@ -33,5 +33,5 @@ Estudiante en <b><a href="https://www.tecazuay.edu.ec/main/index.php">Tecnológi
 
 <br/>
 <div align="center">
-  menduux - jul 2023
+  menduux - 2023
 </div>
