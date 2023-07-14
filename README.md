@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Mr. White Hat</h1>
+  <h1 align="center">Tnlgo. Eduardo Mendieta</h1>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 Apasionado de la tecnología.
 
-Estudiante en <b><a href="https://www.tecazuay.edu.ec/main/index.php">Tecnológico del Azuay</a></b> Instituto Universitario.
+Estudiante de Mecatrónica en <b><a href="https://www.tecazuay.edu.ec/main/index.php">Tecnológico del Azuay</a></b> Instituto Universitario.
 
 ## Skills
 
@@ -33,5 +33,5 @@ Estudiante en <b><a href="https://www.tecazuay.edu.ec/main/index.php">Tecnológi
 
 <br/>
 <div align="center">
-  menduux - 2023
+  Menduú x - Jul 2023
 </div>
