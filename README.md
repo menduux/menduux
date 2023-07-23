@@ -26,7 +26,7 @@ Estudiante de Mecatrónica en <b><a href="https://www.tecazuay.edu.ec/main/index
 <div align="center">
 
   [<img height="30px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136200861/253709072-0f13e05a-5ff6-42fe-b25c-cdd921c11e15.png"/>](https://www.linkedin.com/in/menduux/)
-   [<img height="30px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136200861/250410759-8759b8dc-a51c-4de3-97f4-1eb138f984b4.png"/>](https://www.facebook.com/menduux) 
+   [<img height="30px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136200861/250410759-8759b8dc-a51c-4de3-97f4-1eb138f984b4.png"/>](https://www.facebook.com/profile.php?id=100093377357237) 
    [<img height="30px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136200861/250410756-af6b2cf4-37c3-40d7-b121-f7207bc29de8.png"/>](https://www.instagram.com/menduux/) 
    [<img height="30px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136200861/253709077-9d1e11a8-f16f-4761-88d4-7330f31fdd3f.png"/>](https://www.twitter.com/menduux/)
    [<img height="30px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136200861/250410758-f7ea8f1a-f82c-47b6-bb89-be957e1adf82.png"/>](https://www.tiktok.com/@menduux/)
