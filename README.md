@@ -35,5 +35,5 @@ Estudiante de Mecatrónica en <b><a href="https://www.tecazuay.edu.ec/main/index
 
 <br/>
 <div align="center">
-  Menduú x - Jul 2023
+  Tec.Menduú x - Jul 2023
 </div>
